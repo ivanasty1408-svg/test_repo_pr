@@ -1,7 +1,2 @@
-I`m Ivantsova Anastasia
-Изменено в вебе
-email: ivanasty1408@gmail.com
-<<<<<<< HEAD
+I`m a cat now
 
-=======
->>>>>>> b7199475b1d4ee1a2ed4f9ba192ed43f17c9696b
